@@ -1,0 +1,7 @@
+dist
+node_modules
+public/assets
+src/data/exercises.v1.json
+pnpm-lock.yaml
+NOTICE.md
+LICENSE
